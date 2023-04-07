@@ -1,0 +1,5 @@
+F1 = 2.50i + 3.50j + 2.50k
+Enter a Force [fx fy fz]: 
+F2 = 2.50i + 3.50j + 2.50k
+f1 <= f2
+Fres = 5.00i + 7.00j + 5.00k

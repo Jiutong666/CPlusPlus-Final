@@ -1,0 +1,12 @@
+Enter Deck Type (0 - for Vector, 1 - for DeQue): 
+Size of deck: 8
+Cards in Deck: 
+ (Orange, 4)
+ (Violet, 3)
+ (Yellow, 6)
+ (Violet, 2)
+ (Red, 2)
+ (Orange, 1)
+ (Orange, 5)
+ (Red, 1)
+Deck implimented using Deque
